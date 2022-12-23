@@ -3,4 +3,6 @@
 
 <img src="/img/eriki.jpg" width="200" />
 
-I am a hobbyist programmer, web developer, and a team member of Droidian GNU/Linux. I am also interested in natural languages and learning them.
+I study Information Technology at [Tampere University](https://tuni.fi). In my spare time, I am a team member of [Cutie Shell Project](https://cutie-shell.org) and [Droidian GNU/Linux](https://droidian.org). I am also interested in natural languages and learning them.
+
+[Read more](/about)

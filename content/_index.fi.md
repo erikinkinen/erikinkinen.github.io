@@ -3,4 +3,6 @@
 
 <img src="/img/eriki.jpg" width="200" />
 
-Harrastan koodausta ja olen Droidian GNU/Linux -tiimin jäsen. Olen myös kiinnostunut kielistä ja niiden opiskelusta.
+Opiskelen tietotekniikkaa [Tampereen yliopistossa](https://tuni.fi). Vapaa-ajallani olen mukana [Cutie Shell Projectin](https://cutie-shell.org) ja [Droidian GNU/Linuxin](https://droidian.org) kehityksessä. Olen myös kiinnostunut kielistä ja niiden opiskelusta.
+
+[Lue lisää](/fi/about)
