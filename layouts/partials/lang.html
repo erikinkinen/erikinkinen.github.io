@@ -1,0 +1,9 @@
+<script>
+    const supportedLanguages = ["en", "fi"];
+    const browserLanguage = navigator.language.split('-')[0];
+    const targetLanguage = supportedLanguages.includes(browserLanguage)
+        ? browserLanguage : "en";
+    if (!supportedLanguages.includes(location.pathname.split('/')[1])) {
+        window.location.href = "/" + targetLanguage + location.pathname;
+    }
+</script>
