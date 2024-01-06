@@ -1,0 +1,4 @@
+<script>
+    if (!location.pathname.endsWith("/404.html") && location.pathname.split('/').length > 2)
+        window.location.href = "/" + location.pathname.split('/')[1] + "/404.html";
+</script>

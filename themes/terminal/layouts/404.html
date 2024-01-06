@@ -1,5 +1,6 @@
 {{ define "main" }}
   {{ partial "lang.html" . }}
+  {{ partial "404_lang.html" . }}
   <div class="post">
     <h1 class="post-title">404 — {{ $.Site.Params.missingContentMessage | default "Page not found..." }}</h1>
 
