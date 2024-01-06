@@ -1,9 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Erik Inkinen</title><link>/fi/</link><description>Recent content on Erik Inkinen</description><generator>Hugo -- gohugo.io</generator><language>fi</language><copyright>&amp;copy; Erik Inkinen</copyright><atom:link href="/fi/index.xml" rel="self" type="application/rss+xml"/><item><title>Tietoja minusta</title><link>/fi/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fi/about/</guid><description>Projektit Opintojeni lisäksi teen vapaa-ajallani paljon kehitystyötä avoimen lähdekoodin projektien parissa.
-Olen tällä hetkellä aktiivisesti mukana Cutie Shell Projectissa ja Droidian GNU/Linux -tiimissä. Alla olevasta englanninkielisestä videosta voi katsoa, kun esittelen Droidiania.
-Olen myös aiemmin ollut mukana GNOME:n Musiikin kehityksessä.
-Olen myös Twitterissä ja GitHubissa.</description><content>&lt;h2 id="projektit">Projektit&lt;/h2>
-&lt;p>Opintojeni lisäksi teen vapaa-ajallani paljon kehitystyötä avoimen lähdekoodin projektien parissa.&lt;/p>
-&lt;p>Olen tällä hetkellä aktiivisesti mukana &lt;a href="https://cutie-shell.org">Cutie Shell Projectissa&lt;/a> ja &lt;a href="https://droidian.org">Droidian GNU/Linux&lt;/a> -tiimissä. Alla olevasta englanninkielisestä videosta voi katsoa, kun esittelen Droidiania.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Erik Inkinen</title><link>/fi/</link><description>Recent content on Erik Inkinen</description><generator>Hugo -- gohugo.io</generator><language>fi</language><copyright>&amp;copy; Erik Inkinen</copyright><atom:link href="/fi/index.xml" rel="self" type="application/rss+xml"/><item><title>Tietoja minusta</title><link>/fi/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fi/about/</guid><description>Opiskelen tietotekniikkaa Tampereen yliopistossa. Vapaa-ajallani olen mukana avoimen lähdekoodin ohjelmistojen ja ohjelmistojakelujen kuten Cutie Shell Project -hankkeen ja Droidian GNU/Linuxin kehityksessä sekä ylläpidossa.
+Olen työskennellyt useilla ohjelmointikielillä. Esimerkiksi C, C++, Python ja JavaScript ovat minulle tuttuja ohjelmointikieliä käytännön työn kautta. Minulla on myös kokemusta yleisistä merkintäkielistä kuten HTML sekä QML ja ohjelmistokehyksistä kuten Qt Framework.
+Lisäksi olen kontribuoinut ohjelmistokirjastoihin ja kirjoittanut niistä selkeää dokumentaatiota muita ohjelmoijia varten. Minulla on kokemusta tiimityöstä Droidianin ja Cutie Shell Project -hankkeen kehitystyön kautta.</description><content>&lt;p>Opiskelen tietotekniikkaa Tampereen yliopistossa. Vapaa-ajallani olen mukana avoimen lähdekoodin ohjelmistojen ja ohjelmistojakelujen kuten Cutie Shell Project -hankkeen ja Droidian GNU/Linuxin kehityksessä sekä ylläpidossa.&lt;/p>
+&lt;p>Olen työskennellyt useilla ohjelmointikielillä. Esimerkiksi C, C++, Python ja JavaScript ovat minulle tuttuja ohjelmointikieliä käytännön työn kautta. Minulla on myös kokemusta yleisistä merkintäkielistä kuten HTML sekä QML ja ohjelmistokehyksistä kuten Qt Framework.&lt;/p>
+&lt;p>Lisäksi olen kontribuoinut ohjelmistokirjastoihin ja kirjoittanut niistä selkeää dokumentaatiota muita ohjelmoijia varten. Minulla on kokemusta tiimityöstä Droidianin ja Cutie Shell Project -hankkeen kehitystyön kautta.&lt;/p>
+&lt;p>Olen käyttänyt DevOps-toimintamallia, missä pyritään automatisoimaan erilaisia sovelluskehityksen ja -julkaisun prosesseja. Sekä Droidianissa että Cutie Shell Project -hankkeessa paikkaukset yhdistetään päähaaraan mahdollisimman nopeasti. Suurempia ominaisuuslisäyksiä kehitetään aluksi ominaisuushaaroilla, mutta ne sulautetaan päähaaraan usein, jotta yhdistäminen olisi mahdollista milloin tahansa. Sekä päähaara että ominaisuushaarat rakennetaan ja paketoidaan jokaisen muutoksen jälkeen. Tuotantopakettivaraston (production repository) lisäksi on olemassa kehityspakettivarasto (staging repository) ja jokaista ominaisuushaaraa vastaava pakettivarasto. Nämä pakettivarastot auttavat testausympäristön luomisen automatisoinnissa.&lt;/p>
+&lt;p>Olen myös kiinnostunut luonnollisista kielistä sekä niiden opiskelusta ja puhunkin useampaa kieltä.&lt;/p>
+&lt;h2 id="projektit">Projektit&lt;/h2>
+&lt;p>&lt;strong>Droidian GNU/Linux&lt;/strong> : 3/2021-
+&lt;br>&lt;a href="https://droidian.org/">https://droidian.org/&lt;/a> / &lt;a href="https://github.com/droidian/">https://github.com/droidian/&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Droidian is a GNU/Linux distribution based on Debian for mobile devices. The goal of Droidian is to be able to run Debian on Android phones.
+This is accomplished by using well-known technologies such as libhybris and Halium.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>Video minusta pitämässä esitykstä Droidianista Volla Community Days 2021 -tapahtumassa:&lt;/p>
 &lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X9bASL_Q9Y8?start=884" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
-&lt;p>Olen myös aiemmin ollut mukana &lt;a href="https://wiki.gnome.org/Apps/Music">GNOME:n Musiikin&lt;/a> kehityksessä.&lt;/p>
-&lt;p>Olen myös &lt;a href="https://twitter.com/erikinkinen">Twitterissä&lt;/a> ja &lt;a href="https://github.com/erikinkinen">GitHubissa&lt;/a>.&lt;/p></content></item></channel></rss>
+&lt;hr>
+&lt;p>&lt;strong>Cutie Shell&lt;/strong> : 8/2021-
+&lt;br>&lt;a href="https://cutie-shell.org/">https://cutie-shell.org/&lt;/a> / &lt;a href="https://github.com/cutie-shell/">https://github.com/cutie-shell/&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Cutie Shell aims to be a pretty and easy-to-use mobile UI/UX for Linux devices running either Halium or mainline Linux. Our UI is inspired by Jolla&amp;rsquo;s Sailfish OS, but we are not aiming for a clone. One major difference to Sailfish OS is that our source is completely open.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>Video minusta pitämässä esitykstä Cutie Shellistä Volla Community Days 2023 -tapahtumassa:&lt;/p>
+&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gAc3fA1edW4?start=14424" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;h2 id="koulutus">Koulutus&lt;/h2>
+&lt;p>&lt;strong>Tampereen yliopisto&lt;/strong> : 9/2022-
+&lt;br>Tietotekniikan kandidaatinohjelma&lt;/p>
+&lt;ul>
+&lt;li>Opiskelen tällä hetkellä kandidaatinopintoja ja tavoitteeni on valmistua diplomi-insinööriksi.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Helsingin matematiikkalukio&lt;/strong> : 8/2018-5/2022&lt;/p>
+&lt;h2 id="kielitaito">Kielitaito&lt;/h2>
+&lt;table>
+&lt;tr>
+&lt;td>suomi&lt;/td>
+&lt;td>äidinkieli&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>englanti&lt;/td>
+&lt;td>erinomainen&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>espanja&lt;/td>
+&lt;td>erinomainen&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>katalaani&lt;/td>
+&lt;td>hyvä&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ruotsi&lt;/td>
+&lt;td>hyvä&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ranska&lt;/td>
+&lt;td>tyydyttävä&lt;/td>
+&lt;/tr>
+&lt;/table></content></item></channel></rss>

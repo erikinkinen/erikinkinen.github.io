@@ -1,9 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Erik Inkinen</title><link>/en/</link><description>Recent content on Erik Inkinen</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; Erik Inkinen</copyright><atom:link href="/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>/en/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/about/</guid><description>Projects In addition to my studies, I do a lot of open source project development in my spare time.
-Currently, I am an active developer of Cutie Shell Project and I am also a team member of Droidian GNU/Linux. You can watch me presenting Droidian on a live stream linked below.
-I have also contributed to GNOME Music Player
-You can also find me on Twitter and on GitHub.</description><content>&lt;h2 id="projects">Projects&lt;/h2>
-&lt;p>In addition to my studies, I do a lot of open source project development in my spare time.&lt;/p>
-&lt;p>Currently, I am an active developer of &lt;a href="https://cutie-shell.org">Cutie Shell Project&lt;/a> and I am also a team member of &lt;a href="https://droidian.org">Droidian GNU/Linux&lt;/a>. You can watch me presenting Droidian on a live stream linked below.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Erik Inkinen</title><link>/en/</link><description>Recent content on Erik Inkinen</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; Erik Inkinen</copyright><atom:link href="/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>/en/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/about/</guid><description>I study information technology at Tampere University. In my spare time, I contribute to free and open source software and software distributions such as Cutie Shell Project and Droidian GNU/Linux.
+I have used numerous programming languages. For example, C, C++, Python, and JavaScript are familiar to me through practical work. I also have experience in common markup languages such as HTML and QML. Furthermore, I have used well known software frameworks including Qt Framework.</description><content>&lt;p>I study information technology at Tampere University. In my spare time, I contribute to free and open source software and software distributions such as Cutie Shell Project and Droidian GNU/Linux.&lt;/p>
+&lt;p>I have used numerous programming languages. For example, C, C++, Python, and JavaScript are familiar to me through practical work. I also have experience in common markup languages such as HTML and QML. Furthermore, I have used well known software frameworks including Qt Framework.&lt;/p>
+&lt;p>Additionally, I have contributed to software libraries and written reference documentation for them. My work in Droidian and Cutie Shell Project includes team work with other contributors.&lt;/p>
+&lt;p>I have experience in DevOps methodology which emphasizes intergration and automation of various softare development and delivery processes. Both Droidian and Cutie Shell Project merge patches to the main branch as soon as possible. Larger feature additions are initially developed on feature branches. However, all work-in-progress feature branches are rebased to the main branch often, so that merging these branches could be done at any point. Both the main branch and the feature branches are built and packaged after every commit. Alongside the production repository, there are the staging repository and feature repositories corresponding to each feature branch. These package repositories are used to easily automate creating of a testing environment.&lt;/p>
+&lt;p>I am also interested in natural languages and learning them. Consequently, I speak several languages.&lt;/p>
+&lt;h2 id="projects">Projects&lt;/h2>
+&lt;p>&lt;strong>Droidian GNU/Linux&lt;/strong> : 3/2021-
+&lt;br>&lt;a href="https://droidian.org/">https://droidian.org/&lt;/a> / &lt;a href="https://github.com/droidian/">https://github.com/droidian/&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Droidian is a GNU/Linux distribution based on Debian for mobile devices. The goal of Droidian is to be able to run Debian on Android phones.
+This is accomplished by using well-known technologies such as libhybris and Halium.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>A video of me presenting Droidian at Volla Community Days 2021:&lt;/p>
 &lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X9bASL_Q9Y8?start=884" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
-&lt;p>I have also contributed to &lt;a href="https://wiki.gnome.org/Apps/Music">GNOME Music Player&lt;/a>&lt;/p>
-&lt;p>You can also find me on &lt;a href="https://twitter.com/erikinkinen">Twitter&lt;/a> and on &lt;a href="https://github.com/erikinkinen">GitHub&lt;/a>.&lt;/p></content></item></channel></rss>
+&lt;hr>
+&lt;p>&lt;strong>Cutie Shell&lt;/strong> : 8/2021-
+&lt;br>&lt;a href="https://cutie-shell.org/">https://cutie-shell.org/&lt;/a> / &lt;a href="https://github.com/cutie-shell/">https://github.com/cutie-shell/&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Cutie Shell aims to be a pretty and easy-to-use mobile UI/UX for Linux devices running either Halium or mainline Linux. Our UI is inspired by Jolla&amp;rsquo;s Sailfish OS, but we are not aiming for a clone. One major difference to Sailfish OS is that our source is completely open.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>A video of me presenting Cutie Shell at Volla Community Days 2023:&lt;/p>
+&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gAc3fA1edW4?start=14424" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;h2 id="education">Education&lt;/h2>
+&lt;p>&lt;strong>Tampere university&lt;/strong> : 9/2022-
+&lt;br>Bachelor&amp;rsquo;s Degree studies in Information Technology&lt;/p>
+&lt;ul>
+&lt;li>Currently, I am studying for a bachelor&amp;rsquo;s degree and my goal is to graduate with a master&amp;rsquo;s degree.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Helsingin matematiikkalukio&lt;/strong> : 8/2018-5/2022
+&lt;br>Finnish general upper secondary education&lt;/p>
+&lt;h2 id="language-skills">Language skills&lt;/h2>
+&lt;table>
+&lt;tr>
+&lt;td>Finnsh&lt;/td>
+&lt;td>native&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>English&lt;/td>
+&lt;td>advanced&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spanish&lt;/td>
+&lt;td>advanced&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Catalan&lt;/td>
+&lt;td>intermediate&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Swedish&lt;/td>
+&lt;td>intermediate&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>French&lt;/td>
+&lt;td>elementary&lt;/td>
+&lt;/tr>
+&lt;/table></content></item></channel></rss>
